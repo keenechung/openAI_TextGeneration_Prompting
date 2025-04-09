@@ -1,2 +1,3 @@
 # openAI_TextGeneration_Prompting
-OpenAI API Text Generation and Prompting
+
+Create API and make API calls
